@@ -1,0 +1,14 @@
+n3 testingg.py
+ python3 testingg.py
+ clear
+python3 --version
+ python3 testingg.py
+ python3 testingg.py
+ python3 testingg.py
+ git init
+ls -a
+ git status
+   git add testingg.py
+  git status
+    git commit -m "added testing files"
+    git status
