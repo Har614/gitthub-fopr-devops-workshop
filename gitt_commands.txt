@@ -1,7 +1,7 @@
 n3 testingg.py
  python3 testingg.py
  clear
-python3 --version
+python3 --versionclearcd 
  python3 testingg.py
  python3 testingg.py
  python3 testingg.py
@@ -9,6 +9,16 @@ python3 --version
 ls -a
  git status
    git add testingg.py
-  git status
+  git statusg
     git commit -m "added testing files"
-    git status
+    git statusgit -
+ git remote -v
+    git push origin master 
+   git push origin master
+  git config --global
+    git config --global 
+    git push origin master
+  git pull origin master --rebase
+  git push origin master
+   git branch
+git push origin main
