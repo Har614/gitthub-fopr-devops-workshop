@@ -1,4 +1,4 @@
-n3 testingg.py
+n3 testingigg.py
  python3 testingg.py
  clear
 python3 --versionclearcd 
@@ -6,10 +6,10 @@ python3 --versionclearcd
  python3 testingg.py
  python3 testingg.py
  git init
-ls -a
+ls -ag
  git status
    git add testingg.py
-  git statusg
+  git statusggit 
     git commit -m "added testing files"
     git statusgit -
  git remote -v
@@ -21,6 +21,4 @@ ls -a
   git pull origin master --rebase
   git push origin master
    git branch
-git push origin main
-
-thes are some new changes
+git push origin m

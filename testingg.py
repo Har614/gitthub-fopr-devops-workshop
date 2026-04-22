@@ -1,2 +1,10 @@
-print("hello friends how are you ?")
+def hello():
+    """
+    this is demo
+    """
+    return "hello friends how are you"
 
+
+hello()
+
+ 
