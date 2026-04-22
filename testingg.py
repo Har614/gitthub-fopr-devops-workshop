@@ -1,8 +1,7 @@
 def hello():
-    """
-    this is demo
-    """
+    """Return a greeting message."""
     return "hello friends how are you"
 
 
-hello() 
+if __name__ == "__main__":
+    print(hello())
